@@ -1,0 +1,6 @@
+C:\Users\Thiago\Desktop\pato_interface\pato_interface\obj\Debug\pato_interface.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\pato_interface\pato_interface\bin\Debug\pato_interface.exe.config
+C:\Users\Thiago\Desktop\pato_interface\pato_interface\bin\Debug\pato_interface.exe
+C:\Users\Thiago\Desktop\pato_interface\pato_interface\bin\Debug\pato_interface.pdb
+C:\Users\Thiago\Desktop\pato_interface\pato_interface\obj\Debug\pato_interface.exe
+C:\Users\Thiago\Desktop\pato_interface\pato_interface\obj\Debug\pato_interface.pdb
